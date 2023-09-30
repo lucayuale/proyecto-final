@@ -55,7 +55,14 @@
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-family: 'Zilla Slab', serif;
 }
-
+.conteiner-principal-4{
+    background-image: url(../asset/fondo.jpg);
+    color: white;
+}
+.formulario{
+    font-size: 30px;
+    margin-left: 5%;
+}
 
 /* mobile */
 @media (min-width: 300px) and (max-width: 576px){
