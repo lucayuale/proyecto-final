@@ -63,6 +63,9 @@
     font-size: 30px;
     margin-left: 5%;
 }
+.parrafo-contacto{
+    font-size: 20px
+}
 
 /* mobile */
 @media (min-width: 300px) and (max-width: 576px){
