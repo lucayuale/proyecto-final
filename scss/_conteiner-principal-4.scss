@@ -1,14 +1,6 @@
-.conteiner-principal{
+.conteiner-principal-4{
     background-image: url(../asset/fondo.jpg);
-    @include margen(0%);
     color: $blanco;
-    .carusell{
-        margin-left: 8em;
-        margin-right: 8em;
-    }
-    .logo{
-        @include alto-ancho(20%, 20%);
-    }
     .navbar1{
         font-family: 'Castoro', serif;
         font-family: 'Merriweather', serif;
@@ -20,5 +12,14 @@
         color: $blanco;
         @include fuentes(30px);
     }
-
+    .logo{
+        @include alto-ancho(20%, 20%);
+    }
+    .formulario{
+        @include fuentes(30px);
+        margin-left: 5%;
+    }
+    .parrafo-contacto{
+        @include fuentes(20px);
+    }
 }
