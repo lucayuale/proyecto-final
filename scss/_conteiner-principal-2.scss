@@ -13,6 +13,7 @@
     }
     .titulo-conocenos{
         @include fuentes(30px);
+        font-family: 'Zilla Slab', serif;
     }
     .logo{
         @include alto-ancho(20%, 20%);

@@ -3,6 +3,13 @@
   margin-right: 0%;
   color: white;
 }
+.conteiner-principal .parrafo-in {
+  font-size: 20px;
+  font-family: "Merriweather", serif;
+}
+.conteiner-principal .parrafo-map {
+  font-size: 20px;
+}
 .conteiner-principal .carusell {
   margin-left: 8em;
   margin-right: 8em;
@@ -39,6 +46,7 @@
 }
 .conteiner-principal-2 .titulo-conocenos {
   font-size: 30px;
+  font-family: "Zilla Slab", serif;
 }
 .conteiner-principal-2 .logo {
   width: 20%;
@@ -126,7 +134,7 @@
   font-family: "Rubik", sans-serif;
   font-family: "Yanone Kaffeesatz", sans-serif;
   font-family: "Zilla Slab", serif;
-  font-size: 20px;
+  font-size: 35px;
 }
 .conteiner-principal-4 .titulo-contactanos {
   font-family: "Castoro", serif;
