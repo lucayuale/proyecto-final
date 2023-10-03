@@ -26,6 +26,7 @@
 .conteiner-principal-2 {
   background-image: url(../asset/fondo.jpg);
   margin-right: 0%;
+  color: white;
 }
 .conteiner-principal-2 .tarjetas {
   font-family: "Castoro", serif;
@@ -35,6 +36,9 @@
   font-family: "Yanone Kaffeesatz", sans-serif;
   font-family: "Zilla Slab", serif;
   color: white;
+}
+.conteiner-principal-2 .titulo-conocenos {
+  font-size: 30px;
 }
 .conteiner-principal-2 .logo {
   width: 20%;
