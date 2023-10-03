@@ -1,5 +1,7 @@
 @media (min-width: 300px) and (max-width: 576px){
-
+    .tarjetas{
+        @include fuentes(20px)
+    }
     .map1{
         @include alto-ancho(80%, 70%);
     }
