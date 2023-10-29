@@ -4,6 +4,10 @@
     .logo{
         @include alto-ancho(20%, 20%);
     }
+    .titulo-precios{
+        @include fuentes(50px);
+        font-family: 'Zilla Slab', serif;
+    }
     .navbar1{
         font-family: 'Zilla Slab', serif;
         color: $blanco;
@@ -18,5 +22,7 @@
         @include fuentes(25px);
         font-family: 'Zilla Slab', serif;  
     }
-
+    .contactos{
+        font-family: 'Zilla Slab', serif;
+    }
 }

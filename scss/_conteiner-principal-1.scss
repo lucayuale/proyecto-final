@@ -2,6 +2,10 @@
     background-image: url(../asset/fondo.jpg);
     @include margen(0%);
     color: $blanco;
+    .titulo-principal{
+        font-family: 'Zilla Slab', serif;
+        @include fuentes(20px);
+    }
     .parrafo-in{
         @include fuentes(20px);
         font-family: 'Merriweather', serif;
@@ -20,6 +24,9 @@
         font-family: 'Zilla Slab', serif;
         color: $blanco;
         @include fuentes(30px);
+    }
+    .contactos{
+        font-family: 'Zilla Slab', serif;
     }
 
 }
